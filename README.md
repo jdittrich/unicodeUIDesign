@@ -16,8 +16,8 @@ useful unicode characters for UI Design
 * 𝅘𝅥𝅮 ♫ Music
 * ☽ Moon/Night
 * ⚐ ⚑ Flag
-* ⚠ Attenti* 
-* ⬡ Whatever
+* ⚠ Attention 
+* ⬡ Fancy Hexagon
 * ✉ Envelope/Mail
 * ✆ ☏ ☎ Phone
 * ✈ Plane
@@ -29,6 +29,7 @@ useful unicode characters for UI Design
 * ⚃ ⚂ Random
 * ⚙ Technology/Settings
 * ⛁ Database/Hardisks
+* ··· Dots (three characters "middel dots")
 
 ## Actions
 
