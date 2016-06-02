@@ -29,7 +29,8 @@ useful unicode characters for UI Design
 * ⚃ ⚂ Random
 * ⚙ Technology/Settings
 * ⛁ Database/Hardisks
-* ··· Dots (three characters "middel dots")
+* 🕣 Time/Clock
+* ··· Dots (three characters »middle dots«)
 
 ## Actions
 
