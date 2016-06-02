@@ -42,9 +42,9 @@ useful unicode characters for UI Design
 * ✖ ✕ Close
 * ♲ ♺ Recycle
 * ✒ ✑ ✐ ✐ Edit
-* ⛁ database/harddisk
 * ✔ ✓ Done/Good
 * ✗ ✘ Not Done/Bad
+* ⛔ Block
 * ‹⨞ 𐌂 〈 ❬ ❮ ⟨ ◀ ◁ ◂ ◃ ← ↤ ☚ ☜ Go left
 * ▷ 〉 ⟩ ❭ ❯ ❱ ▶ ▸ ▹‣ ➙ ➜ ➞ → ➡ ➤ ➩ ↦ ☛ ☞ Go right
 * ↔ ⇆ Go horizontal
