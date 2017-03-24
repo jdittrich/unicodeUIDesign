@@ -47,7 +47,10 @@ useful unicode characters for UI Design
 * ⛔ Block
 * ‹⨞ 𐌂 〈 ❬ ❮ ⟨ ◀ ◁ ◂ ◃ ← ↤ ☚ ☜ Go left
 * ▷ 〉 ⟩ ❭ ❯ ❱ ▶ ▸ ▹‣ ➙ ➜ ➞ → ➡ ➤ ➩ ↦ ☛ ☞ Go right
+* ↳↲↰↱ Moves (Or linebreaks)
 * ↔ ⇆ Go horizontal
 * ↕ ⇅ Go vertical
+* ⤨ ⤪ ⤧⤩ Swap
 * ⌵ ▾ ▿ ▼ ▽ Fold out
 * ▵ ▴ △ ▲ fold up
+* ⯐ precision cursor
