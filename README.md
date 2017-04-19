@@ -30,6 +30,8 @@ useful unicode characters for UI Design
 * ⚙ Technology/Settings
 * ⛁ Database/Hardisks
 * 🕣 Time/Clock
+* 🔍 🔎 Maginifying glass 
+* 📁📂 Folders
 * ··· Dots (three characters »middle dots«)
 
 ## Actions
