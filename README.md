@@ -7,10 +7,6 @@ useful unicode characters for UI Design
 * ☑ ☐ Checkbox 
 
 ## Things
-
-*  ⌂ Home
-* ☰ Hamburger (Actually, "Trigram for 'Heaven' "
-* ♡ ❤ ★ ☆ Favorite
 * ☺ Like
 * ☹ Dislike
 * 𝅘𝅥𝅮 ♫ Music
@@ -30,9 +26,18 @@ useful unicode characters for UI Design
 * ⚙ Technology/Settings
 * ⛁ Database/Hardisks
 * 🕣 Time/Clock
-* 🔍 🔎 Maginifying glass 
+* 🗓 Calendar
+
+## Typical Icons
+* 🗕🗖🗗 Window states
+* 🕨🕩🕪 Audio States
+* 🔍 🔎 Maginifying glass: Search, Zoom
+* 🖈 Pin needle: Place, fixate
 * 📁📂 Folders
 * ··· Dots (three characters »middle dots«)
+* ⌂ Home
+* ☰ Hamburger (Actually, "Trigram for 'Heaven' "
+* ♡ ❤ ★ ☆ Favorite
 
 ## Actions
 
