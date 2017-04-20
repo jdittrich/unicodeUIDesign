@@ -25,8 +25,12 @@ useful unicode characters for UI Design
 * ⚃ ⚂ Random
 * ⚙ Technology/Settings
 * ⛁ Database/Hardisks
+* 🗠 Chart/Statistics
 * 🕣 Time/Clock
 * 🗓 Calendar
+* 📎 Clip/Attachment	
+* 📏 Ruler
+* 🌍 	🌎 	🌏 World/International
 
 ## Typical Icons
 * 🗕🗖🗗 Window states
@@ -38,6 +42,8 @@ useful unicode characters for UI Design
 * ⌂ Home
 * ☰ Hamburger (Actually, "Trigram for 'Heaven' "
 * ♡ ❤ ★ ☆ Favorite
+* 🔖 Bookmark	
+* 🔗 Link
 
 ## Actions
 
@@ -46,6 +52,8 @@ useful unicode characters for UI Design
 * ↺ ↻ Rotate
 * ✂ Cut
 * ✍ Write
+* 🔒 	🔓 Locked/Unlocked 	
+* 🔔 	🔕 Ring/Don’t ring	
 * ✖ ✕ Close
 * ♲ ♺ Recycle
 * ✒ ✑ ✐ ✐ Edit
