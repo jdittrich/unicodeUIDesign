@@ -38,6 +38,7 @@ useful unicode characters for UI Design
 * 🔍 🔎 Maginifying glass: Search, Zoom
 * 🖈 Pin needle: Place, fixate
 * 📁📂 Folders
+* 💾 Save
 * ··· Dots (three characters »middle dots«)
 * ⌂ Home
 * ☰ Hamburger (Actually, "Trigram for 'Heaven' "
