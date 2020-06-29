@@ -39,9 +39,10 @@ useful unicode characters for UI Design
 * 🖈 Pin needle: Place, fixate
 * 📁📂 Folders
 * 💾 Save
-* ··· Dots (three characters »middle dots«)
+* ··· or ⋯  "meatball icon" for menus (usually overflow items)
+* ⋮  for menus "kebab icon" for menus (usually overflow items)
 * ⌂ Home
-* ☰ Hamburger (Actually, "Trigram for 'Heaven' "
+* ☰ Hamburger (For unfolding navigation or action menus. Actually, ☰ is "Trigram for 'Heaven')
 * ♡ ❤ ★ ☆ Favorite
 * 🔖 Bookmark	
 * 🔗 Link
